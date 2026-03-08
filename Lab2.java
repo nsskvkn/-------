@@ -52,7 +52,7 @@ public class Lab2 {
         var processedNumber = new String(chars);
         System.out.println("%s -> %s".formatted(originalNumber, processedNumber));
 
-        System.out.println("\n=== TASK 2 ===");
+        System.out.println("\n=== TASK 2 ===");  
         var text = """
                 This is a simple text for testing our Java program.\n
                    We need to find words like Programming, Game, or CPU.\n
